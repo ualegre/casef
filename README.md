@@ -1,6 +1,7 @@
 # C-ASEF: Context-Aware Systems Engineering Framework
-[![Build Status](https://img.shields.io/badge/casetools-rcase-blue.svg)](https://github.com/ualegre/casef)
-======
+![](https://raw.githubusercontent.com/ualegre/casef/master/images/casef.png)
+[![Theory](https://img.shields.io/badge/casef-methodologies-red.svg)](https://github.com/ualegre/casef) [![Tools](https://img.shields.io/badge/casef-casetools-gra.svg)](https://github.com/ualegre/casef)
+
 ## Introduction
 The Context-Aware Systems Engineering Framework (C-ASEF) is an open-source tool supported framework for the development of more usable context-aware systems. It is part of the contribution of the doctoral thesis of Unai Alegre-Ibarra, and it is based on a novel conceptualisation of context and context-awareness [1], which is based on the development needs for these systems [2]. The framework is divided into three sub-frameworks, according to the main development stages of a software development life cycle: 'Requirements', 'Design', and 'Implementation, Deployment and Maintenance'.  
 
@@ -20,16 +21,27 @@ The second sub-framework, is the Design for the Context-Aware Systems Engineerin
 
 Last but not least, the third sub-framework is the Implementation, Deployment and Maintenance for Context-Aware Systems Engineering Framework (IDMC-ASE), which is intended for the generation of code of the elements designed using DC-ASEF. Additionally, since the design is situation of interest based, it facilitates the maintenance of these, including its associated elements.
 
+The following figure illustrates the main conceptual components and tools used in the framework.  
+![](https://raw.githubusercontent.com/ualegre/casef/master/images/framework.jpg)
+
 ## Tool support
 The whole framework tools are based on a total eight diagram formats,
 each of which requires the introduction of its corresponding meta-model.
 
 ### RC-ASE
+[![Tools](https://img.shields.io/badge/casetools-rcase-blue.svg)](https://github.com/ualegre/rcase)
 Modelio is an open-source modelling tool which is freely available to be [downloaded](https://www.modelio.org/downloads/download-modelio.html) from its [official website](http://www.modelio.org). The current Modelio version for which this module is compatible is v3.7. Modelio, and therefore this module, is available for Linux, Windows and Mac. Follow the [Modelio Quick-start guide](https://www.modelio.org/quick-start-pages-35.html) provided in the official Modelio website to install the program in your preferred operating system.
 
 ### DC-ASE
-
+[![Tools](https://img.shields.io/badge/casetools-dcase-green.svg)](https://github.com/ualegre/dcase)
 ### IC-ASE
+[![Tools](https://img.shields.io/badge/casetools-icase-yellow.svg)](https://github.com/ualegre/rcase)
+### Stationary platform
+
+![](https://raw.githubusercontent.com/ualegre/casef/master/images/stationary.jpg)
+
+### Mobile platform
+![](https://raw.githubusercontent.com/ualegre/casef/master/images/mobile.jpg)
 
 ## Case study
 In order to facilitate the understanding of the most technical aspects, a case study has been used as a validation example.
@@ -53,33 +65,40 @@ The previous case study is intended for using small devices such as phones or ta
 **The exercise example can be downloaded [here]().**
 ## References
 [1] *Perspectives on engineering more usable context-aware systems, Journal of Ambient Intelligence and Humanized Computing, Volume 9, Number 5, Pages 1593-1609, Springer.*  
-**Download here:**  
-	* [Mirror 1](https://doi.org/10.1007/s12652-018-0863-7)  
-	* [Mirror 2](http://eprints.mdx.ac.uk/24280/)  
+**Download here:**
+* [Mirror 1](https://doi.org/10.1007/s12652-018-0863-7)  
+* [Mirror 2](http://eprints.mdx.ac.uk/24280/)
+
 [2] *Engineering context-aware systems and applications: A survey, Journal of Systems and Software, Volume 117, Pages 55-83, Elsevier.*  
 **Download here:**  
-	* [Mirror 1](https://doi.org/10.1016/j.jss.2016.02.010)  
-	* [Mirror 2](http://eprints.mdx.ac.uk/18845/)  
+  * [Mirror 1](https://doi.org/10.1016/j.jss.2016.02.010)  
+  * [Mirror 2](http://eprints.mdx.ac.uk/18845/)
+
 [3] *RC-ASEF: An open-source tool-supported requirements elicitation framework for context-aware systems development, Proceedings of the 2018 Federated Conference on Computer Science and Information Systems, FedCSIS, Poland, 2018, Pages 829-838, IEEE.*   
 **Download here:**  
-	* [Mirror 1](https://doi.org/10.15439/2018F136)   
-	* [Mirror 2](https://annals-csis.org/proceedings/2018/drp/pdf/136.pdf)  
+  * [Mirror 1](https://doi.org/10.15439/2018F136)   
+  * [Mirror 2](https://annals-csis.org/proceedings/2018/drp/pdf/136.pdf)  
+
 [4] *REUBI: A requirements engineering method for ubiquitous systems, Science of Computer Programming, 78.10 (2013): 1895-1911, Elsevier*     
 **Download here:**  
-	* [Mirror 1](https://doi.org/10.1016/j.scico.2012.07.021)  
+  * [Mirror 1](https://doi.org/10.1016/j.scico.2012.07.021)  
+
 [5] *Requirements engineering for intelligent environments, International Conference on Intelligent Environments (IE), 2014, IEEE.*   
 **Download here:**  
-	* [Mirror 1](https://doi.org/10.1109/IE.2014.30)  
-  * [Mirror 2]()   
+  * [Mirror 1](https://doi.org/10.1109/IE.2014.30)  
+  * [Mirror 2]()  
+
 [6] Official site of the POSEIDON project: http://www.poseidon-project.org  
+
 [7] *Developing navigational services for people with Down's Syndrome, International Conference on Intelligent Environments (IE), 2015, IEEE.*  
-**Download here:**  
-	* [Mirror 1](https://doi.org/10.1109/IE.2015.26)  
-  * [Mirror 2]()    
+**Download here:**
+* [Mirror 1](https://doi.org/10.1109/IE.2015.26)  
+* [Mirror 2]()  
+
 [8] *Assessing real world imagery in virtual environments for people with cognitive disabilities, International Conference on Intelligent Environments (IE), 2015, IEEE.*  
 **Download here:**  
-	* [Mirror 1](https://doi.org/10.1109/IE.2015.14)  
-  * [Mirror 2]()  
+* [Mirror 1](https://doi.org/10.1109/IE.2015.14)  
+* [Mirror 2]()  
 
 ## Developer Contact
 * author: Unai Alegre-Ibarra
