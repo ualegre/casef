@@ -36,12 +36,12 @@ Modelio is an open-source modelling tool which is freely available to be [downlo
 [![Tools](https://img.shields.io/badge/casetools-dcase-green.svg)](https://github.com/ualegre/dcase)
 ### IC-ASE
 [![Tools](https://img.shields.io/badge/casetools-icase-yellow.svg)](https://github.com/ualegre/rcase)
-### Stationary platform
-[![Tools](https://img.shields.io/badge/casetools-mreasoner-red.svg)](https://github.com/ualegre/mreasoner-gui)
+#### Stationary platform
+[![Tools](https://img.shields.io/badge/icase-mreasoner-red.svg)](https://github.com/ualegre/mreasoner-gui)
 ![](https://raw.githubusercontent.com/ualegre/casef/master/images/stationary.jpg)
 
-### Mobile platform
-[![Tools](https://img.shields.io/badge/casetools-acontextreasoner-darkgreen.svg)](https://github.com/ualegre/aContextReasoner)
+#### Mobile platform
+[![Tools](https://img.shields.io/badge/icase-acontextreasoner-darkgreen.svg)](https://github.com/ualegre/aContextReasoner)
 ![](https://raw.githubusercontent.com/ualegre/casef/master/images/mobile.jpg)
 
 ## Case study
