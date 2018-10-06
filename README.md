@@ -1,6 +1,6 @@
 # C-ASEF: Context-Aware Systems Engineering Framework
-![](https://raw.githubusercontent.com/ualegre/casef/master/images/casef.png)
-[![Theory](https://img.shields.io/badge/casef-methodologies-red.svg)](https://github.com/ualegre/casef) [![Tools](https://img.shields.io/badge/casef-casetools-gra.svg)](https://github.com/ualegre/casef)
+![](https://raw.githubusercontent.com/ualegre/casef/master/images/casef.png)  
+[![Theory](https://img.shields.io/badge/casef-methodologies-pink.svg)](https://github.com/ualegre/casef) [![Tools](https://img.shields.io/badge/casef-casetools-gra.svg)](https://github.com/ualegre/casef)
 
 ## Introduction
 The Context-Aware Systems Engineering Framework (C-ASEF) is an open-source tool supported framework for the development of more usable context-aware systems. It is part of the contribution of the doctoral thesis of Unai Alegre-Ibarra, and it is based on a novel conceptualisation of context and context-awareness [1], which is based on the development needs for these systems [2]. The framework is divided into three sub-frameworks, according to the main development stages of a software development life cycle: 'Requirements', 'Design', and 'Implementation, Deployment and Maintenance'.  
@@ -37,10 +37,11 @@ Modelio is an open-source modelling tool which is freely available to be [downlo
 ### IC-ASE
 [![Tools](https://img.shields.io/badge/casetools-icase-yellow.svg)](https://github.com/ualegre/rcase)
 ### Stationary platform
-
+[![Tools](https://img.shields.io/badge/casetools-mreasoner-red.svg)](https://github.com/ualegre/mreasoner-gui)
 ![](https://raw.githubusercontent.com/ualegre/casef/master/images/stationary.jpg)
 
 ### Mobile platform
+[![Tools](https://img.shields.io/badge/casetools-acontextreasoner-darkgreen.svg)](https://github.com/ualegre/aContextReasoner)
 ![](https://raw.githubusercontent.com/ualegre/casef/master/images/mobile.jpg)
 
 ## Case study
