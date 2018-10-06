@@ -53,33 +53,33 @@ The previous case study is intended for using small devices such as phones or ta
 **The exercise example can be downloaded [here]().**
 ## References
 [1] *Perspectives on engineering more usable context-aware systems, Journal of Ambient Intelligence and Humanized Computing, Volume 9, Number 5, Pages 1593-1609, Springer.*  
-**Download here:**
-	* [Mirror 1](https://doi.org/10.1007/s12652-018-0863-7)
-	* [Mirror 2](http://eprints.mdx.ac.uk/24280/)
+**Download here:**  
+	* [Mirror 1](https://doi.org/10.1007/s12652-018-0863-7)  
+	* [Mirror 2](http://eprints.mdx.ac.uk/24280/)  
 [2] *Engineering context-aware systems and applications: A survey, Journal of Systems and Software, Volume 117, Pages 55-83, Elsevier.*  
-**Download here:**
-	* [Mirror 1](https://doi.org/10.1016/j.jss.2016.02.010)
-	* [Mirror 2](http://eprints.mdx.ac.uk/18845/)
+**Download here:**  
+	* [Mirror 1](https://doi.org/10.1016/j.jss.2016.02.010)  
+	* [Mirror 2](http://eprints.mdx.ac.uk/18845/)  
 [3] *RC-ASEF: An open-source tool-supported requirements elicitation framework for context-aware systems development, Proceedings of the 2018 Federated Conference on Computer Science and Information Systems, FedCSIS, Poland, 2018, Pages 829-838, IEEE.*   
-**Download here:**
-	* [Mirror 1](https://doi.org/10.15439/2018F136)  
+**Download here:**  
+	* [Mirror 1](https://doi.org/10.15439/2018F136)   
 	* [Mirror 2](https://annals-csis.org/proceedings/2018/drp/pdf/136.pdf)  
-[4] *REUBI: A requirements engineering method for ubiquitous systems, Science of Computer Programming, 78.10 (2013): 1895-1911, Elsevier*   
-**Download here:**
+[4] *REUBI: A requirements engineering method for ubiquitous systems, Science of Computer Programming, 78.10 (2013): 1895-1911, Elsevier*     
+**Download here:**  
 	* [Mirror 1](https://doi.org/10.1016/j.scico.2012.07.021)  
 [5] *Requirements engineering for intelligent environments, International Conference on Intelligent Environments (IE), 2014, IEEE.*   
-**Download here:**
+**Download here:**  
 	* [Mirror 1](https://doi.org/10.1109/IE.2014.30)  
-  * [Mirror 2]()  
-[6] Official site of the POSEIDON project: http://www.poseidon-project.org
-[7] *Developing navigational services for people with Down's Syndrome, International Conference on Intelligent Environments (IE), 2015, IEEE.*
-**Download here:**
+  * [Mirror 2]()   
+[6] Official site of the POSEIDON project: http://www.poseidon-project.org  
+[7] *Developing navigational services for people with Down's Syndrome, International Conference on Intelligent Environments (IE), 2015, IEEE.*  
+**Download here:**  
 	* [Mirror 1](https://doi.org/10.1109/IE.2015.26)  
   * [Mirror 2]()    
-[8] *Assessing real world imagery in virtual environments for people with cognitive disabilities, International Conference on Intelligent Environments (IE), 2015, IEEE.*
-**Download here:**
+[8] *Assessing real world imagery in virtual environments for people with cognitive disabilities, International Conference on Intelligent Environments (IE), 2015, IEEE.*  
+**Download here:**  
 	* [Mirror 1](https://doi.org/10.1109/IE.2015.14)  
-  * [Mirror 2]()
+  * [Mirror 2]()  
 
 ## Developer Contact
 * author: Unai Alegre-Ibarra
