@@ -35,7 +35,7 @@ Modelio is an open-source modelling tool which is freely available to be [downlo
 ### DC-ASE
 [![Tools](https://img.shields.io/badge/casetools-dcase-green.svg)](https://github.com/ualegre/dcase)
 ### IC-ASE
-[![Tools](https://img.shields.io/badge/casetools-icase-yellow.svg)](https://github.com/ualegre/rcase)
+[![Tools](https://img.shields.io/badge/casetools-icase-yellow.svg)](https://github.com/ualegre/dcase)
 #### Stationary platform
 [![Tools](https://img.shields.io/badge/icase-mreasoner-red.svg)](https://github.com/ualegre/mreasoner-gui)
 ![](https://raw.githubusercontent.com/ualegre/casef/master/images/stationary.jpg)
@@ -61,7 +61,12 @@ It has to be mentioned, that the POSEIDON project presents itself a suite of too
 The previous case study is intended for using small devices such as phones or tablets. Nevertheless, the scope of context-aware computing spans also stationary platforms, enabling other technologies, such as ambient intelligence or ambient assisted living, to happen. In order to illustrate better the creation of context-aware systems in different platforms, another scenario is introduced. In this scenario, the focus is on a stationary platform, installed as a smart-house, that uses different stationary sensors to provide context-awareness. The scenario assumes an individual with Down’s syndrome living alone in a smart-house, where the technology provides the user with the means to have a more autonomous life at home. In order to narrow the example, the example will be constrained to the kitchen of the house, particularly to facilitating the person to cook independently.
 
 ### Instructions for downloading and using the example with both case studies
-
+1) Download the NavigationSystem.zip file
+2) Open Modelio v3.7
+3) If not already installed, install rcase v0.4.9, dcase v0.7.0, ModelerModule v8.8.9 and SysMLArchitect v3.7.2 modules
+4) Click on File -> Import a project...
+5) Select the file NavigationSystem.zip
+6) Open the project
 
 **The exercise example can be downloaded [here]().**
 ## References
