@@ -43,6 +43,7 @@ Modelio is an open-source modelling tool which is freely available to be [downlo
 
 #### Mobile platform
 [![Tools](https://img.shields.io/badge/icase-acontextreasoner-darkgreen.svg)](https://github.com/ualegre/aContextReasoner)
+
 ![](https://raw.githubusercontent.com/ualegre/casef/master/images/mobile.jpg)
 
 ## Case study
